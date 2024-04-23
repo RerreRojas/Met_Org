@@ -52,7 +52,7 @@ body {
   padding-top: 15px;
   font-size: 18px;
 }
-.card1__text-emphasis {
+.card1__text--emphasis {
   font-weight: 700;
   padding: 15px;
   font-size: 18px;
@@ -88,7 +88,7 @@ body {
   font-weight: 400;
   font-size: 15px;
 }
-.card2__text-emphasis {
+.card2__text--emphasis {
   font-weight: 700;
   font-size: 15px;
 }
@@ -122,7 +122,7 @@ body {
   font-weight: 400;
   font-size: 15px;
 }
-.card3__text-emphasis {
+.card3__text--emphasis {
   font-weight: 700;
   font-size: 15px;
 }
@@ -155,7 +155,7 @@ body {
   font-weight: 400;
   font-size: 15px;
 }
-.card4__text-emphasis {
+.card4__text--emphasis {
   font-weight: 700;
   font-size: 15px;
 }
@@ -200,7 +200,7 @@ body {
   font-weight: 400;
   font-size: 15px;
 }
-.card5__text-emphasis {
+.card5__text--emphasis {
   font-weight: 700;
   text-align: center;
   padding-bottom: 25px;
@@ -236,7 +236,7 @@ body {
   font-weight: 400;
   font-size: 15px;
 }
-.card6__text-emphasis {
+.card6__text--emphasis {
   font-weight: 700;
   font-size: 25px;
 }
@@ -272,7 +272,7 @@ body {
   font-weight: 400;
   font-size: 15px;
 }
-.card7__text-emphasis {
+.card7__text--emphasis {
   font-weight: 700;
   font-size: 25px;
 }
@@ -304,7 +304,7 @@ body {
   font-weight: 400;
   font-size: 15px;
 }
-.card8__text-emphasis {
+.card8__text--emphasis {
   font-weight: 700;
   font-size: 25px;
 }
@@ -365,7 +365,7 @@ body {
   width: 50px;
   padding: 5px;
 }
-.section2b__block2__title {
+.section2b__block2__title--white {
   color: #ffffff;
   font-weight: 700;
   padding-left: 25px;
@@ -387,7 +387,7 @@ body {
   width: 59px;
   padding: 5px;
 }
-.section2b__block3__title {
+.section2b__block3__title--white {
   color: #ffffff;
   font-weight: 700;
   padding-left: 105px;
@@ -409,7 +409,7 @@ body {
   width: 68px;
   padding: 3px;
 }
-.section2b__block4__title {
+.section2b__block4__title--white {
   color: #ffffff;
   font-weight: 700;
   padding-left: 65px;
@@ -431,7 +431,7 @@ body {
   width: 70px;
   padding: 5px;
 }
-.section2b__block5__title {
+.section2b__block5__title--white {
   color: #ffffff;
   font-weight: 700;
   padding-left: 90px;
@@ -453,7 +453,7 @@ body {
   width: 59px;
   padding: 5px;
 }
-.section2b__block6__title {
+.section2b__block6__title--white {
   color: #ffffff;
   font-weight: 700;
   padding-left: 15px;
